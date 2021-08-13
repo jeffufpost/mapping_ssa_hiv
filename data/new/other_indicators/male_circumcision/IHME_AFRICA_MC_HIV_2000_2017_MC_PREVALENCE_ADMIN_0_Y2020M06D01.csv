@@ -1,0 +1,685 @@
+ADM0_CODE,ADM0_NAME,year,age_group_id,age_group_name,sex_id,sex,measure,metric,mean,lower,upper,iso
+3,Angola,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,85.9717848118394,62.0294371211439,97.2119722577084,AGO
+3,Angola,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,87.2850416731405,66.8120779652272,97.2542173426659,AGO
+3,Angola,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,88.4894739324552,70.1829074660921,97.4989640859397,AGO
+3,Angola,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,89.6388737586295,73.2199075642809,97.5869217459535,AGO
+3,Angola,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,90.7336063651569,76.982353248927,97.661425965112,AGO
+3,Angola,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,91.7089132286845,79.6162296079993,97.8083582449604,AGO
+3,Angola,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,92.6560853101455,81.9655446231683,97.9069484012923,AGO
+3,Angola,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,93.5026138374716,84.3312076549344,98.0733685406816,AGO
+3,Angola,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,94.172157205205,85.9952389443303,98.2864729281429,AGO
+3,Angola,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,94.7612208157825,87.4985173114747,98.2743072204451,AGO
+3,Angola,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.2354639771748,89.570300080342,98.3092584646801,AGO
+3,Angola,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.6958200287504,91.0691039810339,98.2358887804903,AGO
+3,Angola,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.038441955626,91.8921825579509,98.0844305555277,AGO
+3,Angola,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.4094532459522,93.3769335658145,98.1723723933934,AGO
+3,Angola,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.7329614109622,94.9180134959013,97.9993963327045,AGO
+3,Angola,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.0446734491313,96.2806146077656,97.6834131494013,AGO
+3,Angola,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.2050801851048,96.4184570279921,97.8060399159142,AGO
+3,Angola,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.5388561881483,96.1817579891575,98.5247642616325,AGO
+20,Benin,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,93.4275323415379,82.9613927458672,98.2331760203347,BEN
+20,Benin,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,94.1186721376156,85.971046065157,98.2273151937991,BEN
+20,Benin,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,94.7344344714075,88.7307630179653,98.2577557661451,BEN
+20,Benin,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.2887096448529,90.9316240050978,98.0253895620009,BEN
+20,Benin,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.5084902318697,92.0834908001504,98.0024650678705,BEN
+20,Benin,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.7002335320349,93.1575274104476,97.6660133401452,BEN
+20,Benin,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.7332274678201,94.8385826818827,96.5718593389345,BEN
+20,Benin,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.0213647698057,93.770618807255,97.7370761375406,BEN
+20,Benin,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.2588365887746,93.8136070590541,98.1104562712503,BEN
+20,Benin,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.0598640670496,92.8402979578459,98.1438342740827,BEN
+20,Benin,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.7201350527298,92.6998523781145,97.8516366951716,BEN
+20,Benin,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,94.7841366701793,92.5034362019401,96.6593672279549,BEN
+20,Benin,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,94.7357666153655,93.716814053617,95.6370877956939,BEN
+20,Benin,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.0984177678803,94.1912223777674,97.4378524750392,BEN
+20,Benin,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.4297611502445,95.4740683578797,97.2391570460163,BEN
+20,Benin,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.9896026068705,93.8526868902003,97.6253985324932,BEN
+20,Benin,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.5447843329632,93.2760047383767,97.3070263271139,BEN
+20,Benin,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.4332766185703,94.2816393559865,96.3400813470341,BEN
+38,Botswana,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,12.7617312909229,9.39230914058541,17.078964446839,BWA
+38,Botswana,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,13.3086660605931,11.0205643244179,15.8871153381234,BWA
+38,Botswana,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,12.3221769474649,9.57116985244619,15.3129413968695,BWA
+38,Botswana,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,11.2236038450199,8.93745514160771,13.9283770270391,BWA
+38,Botswana,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,10.1257738485842,9.02860746755146,11.3006550385226,BWA
+38,Botswana,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,11.0347583047494,8.50346043507423,13.8176619306656,BWA
+38,Botswana,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,11.8091628090501,9.03968704802949,15.1698737584905,BWA
+38,Botswana,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,12.5476055361766,9.90127338647611,15.5176441265879,BWA
+38,Botswana,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,13.3388381371432,12.0966589282214,14.6082753268214,BWA
+38,Botswana,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,14.7845085796763,11.642258853748,18.5701606622822,BWA
+38,Botswana,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,16.9780912259189,12.9753056646792,21.5151183421974,BWA
+38,Botswana,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,18.7504186878839,14.616473705417,23.2784550323747,BWA
+38,Botswana,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,21.0774833570437,17.4181431878426,25.6677359775843,BWA
+38,Botswana,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,25.3032229835378,23.0805548555201,27.7727592474781,BWA
+38,Botswana,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,27.3509406695256,21.8213609772905,33.2360289532572,BWA
+38,Botswana,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,30.3331912361286,23.306295581384,38.1960327154954,BWA
+38,Botswana,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,30.8695222749108,23.3333797675935,39.1392234337307,BWA
+38,Botswana,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,31.9075831300671,22.6628659747073,41.6929734686577,BWA
+22,Burkina Faso,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,90.157181974395,82.5198440842816,95.5436877727206,BFA
+22,Burkina Faso,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,90.321618649914,83.7718844503324,94.9864227295464,BFA
+22,Burkina Faso,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,90.4119713574623,86.2445779057455,93.9035218873337,BFA
+22,Burkina Faso,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,90.370845249073,89.1530046313507,91.5272495861021,BFA
+22,Burkina Faso,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,90.5901991145521,86.5433531306955,93.850360647684,BFA
+22,Burkina Faso,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,90.7471929455888,85.5604059487261,94.4529391576958,BFA
+22,Burkina Faso,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,90.2292013486453,84.6261515019813,94.4656286153869,BFA
+22,Burkina Faso,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,90.2765180128484,84.74352588755,94.4078477840256,BFA
+22,Burkina Faso,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,90.3305624093861,85.2976404067698,94.0466413229897,BFA
+22,Burkina Faso,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,89.9532778414697,85.4965965896409,93.2345858150251,BFA
+22,Burkina Faso,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,89.481475846225,88.3205327728444,90.6296310053057,BFA
+22,Burkina Faso,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,89.3881379780139,84.9624551393808,92.9257117257996,BFA
+22,Burkina Faso,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,89.1087064468771,83.127804405759,93.7449571826013,BFA
+22,Burkina Faso,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,89.1886206446014,82.2913115661432,94.681729784503,BFA
+22,Burkina Faso,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,88.9639743496159,80.7791918794814,94.4242719750023,BFA
+22,Burkina Faso,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,90.0073836441354,81.8470869027758,95.7884752238417,BFA
+22,Burkina Faso,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,90.7155675055075,81.1558454727637,96.7175823483826,BFA
+22,Burkina Faso,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,91.4962086110124,80.8555254088336,97.2939993863696,BFA
+18,Burundi,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,29.9302124063183,14.3917452026078,50.7890514960677,BDI
+18,Burundi,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,29.8668607747633,14.8407577953969,47.9705504099379,BDI
+18,Burundi,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,30.0660630376964,16.3122220520402,44.793517484948,BDI
+18,Burundi,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,30.2632925904056,19.1337901909946,43.6259425131038,BDI
+18,Burundi,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,29.3010361420209,20.6622061550205,39.4112070342095,BDI
+18,Burundi,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,29.5113290093157,22.2349373734943,37.4344642567341,BDI
+18,Burundi,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,29.1228100005304,20.7946440794324,38.1271194036729,BDI
+18,Burundi,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,28.8112542958613,21.702699669816,36.662247662108,BDI
+18,Burundi,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,32.4935096538226,26.2532719048095,38.6904670524292,BDI
+18,Burundi,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,32.3265713515771,25.6281432338098,40.0252264952132,BDI
+18,Burundi,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,30.7613696555178,28.4424098410412,33.0280260111092,BDI
+18,Burundi,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,33.5096216276292,29.3874847906137,37.8159001587536,BDI
+18,Burundi,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,36.1352004884458,29.2127847642329,43.9260921327782,BDI
+18,Burundi,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,41.4480335055438,32.986245610498,50.8274601197956,BDI
+18,Burundi,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,47.4639037993358,40.1632954718501,54.5588030200703,BDI
+18,Burundi,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,45.8480858567723,39.7825086204441,52.0433548306478,BDI
+18,Burundi,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,42.3169065562852,40.0082985483722,44.674139971098,BDI
+18,Burundi,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,45.1604951845288,42.4351978149625,47.9744286698568,BDI
+46,Cameroon,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,93.2297146563161,87.8772532236403,96.7623249278646,CMR
+46,Cameroon,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,93.5845465577666,88.8127225048047,96.8725389606777,CMR
+46,Cameroon,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,93.7695920552181,90.1829566975791,96.7319047626374,CMR
+46,Cameroon,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,93.8580476989745,91.0561485329352,96.1914079554057,CMR
+46,Cameroon,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,93.8867371031423,92.7477549999326,94.8804293534065,CMR
+46,Cameroon,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,94.7404982148332,92.45157093946,96.6576778899417,CMR
+46,Cameroon,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.4272185187943,92.6846537254829,97.4220101333899,CMR
+46,Cameroon,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.8561711900103,93.1404996420669,97.7834109631769,CMR
+46,Cameroon,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.3212151591806,93.8738719845039,97.9804472033623,CMR
+46,Cameroon,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.9729774941686,93.5812051326635,97.7543163936285,CMR
+46,Cameroon,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.6232491610038,93.5580306898294,97.2812822686931,CMR
+46,Cameroon,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.2509597586972,94.4624641569203,95.9982056319513,CMR
+46,Cameroon,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.1092601419356,92.7683265952198,96.8851578379507,CMR
+46,Cameroon,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.0045694013618,92.2634068816368,97.1864596076829,CMR
+46,Cameroon,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,94.9442512094523,91.7438497581154,97.1506890105518,CMR
+46,Cameroon,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.0548620214225,91.5255423983813,97.3279818973744,CMR
+46,Cameroon,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.8814099286119,92.214817882982,98.0534920696253,CMR
+46,Cameroon,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.1915406160053,92.3117899299716,98.5347826184277,CMR
+39,Central African Republic,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,94.1122355584623,84.5974545324362,98.4712793662453,CAF
+39,Central African Republic,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.0226743997795,87.3113357267012,98.5480938603335,CAF
+39,Central African Republic,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.8465616008917,90.0819671166878,98.6039236855911,CAF
+39,Central African Republic,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.5530036016421,92.7003245628665,98.7789060202298,CAF
+39,Central African Republic,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.2338071392254,94.1693227276319,98.8154165657462,CAF
+39,Central African Republic,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.7446643808398,95.9987994652038,98.8263843295016,CAF
+39,Central African Republic,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.2131408573223,97.5997252884313,98.7278498227873,CAF
+39,Central African Republic,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.3347916406595,97.180966762206,99.0972130867423,CAF
+39,Central African Republic,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.3780494520737,96.6556269505376,99.26927340259,CAF
+39,Central African Republic,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.4419966227759,96.35174025602,99.3827915742438,CAF
+39,Central African Republic,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.5958548503896,96.7762851962987,99.5391387457422,CAF
+39,Central African Republic,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.7397183872151,96.8444392594752,99.641430149798,CAF
+39,Central African Republic,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.8157281953551,96.8120710387093,99.7040567808837,CAF
+39,Central African Republic,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.9371988062388,97.0850485709649,99.7594359144534,CAF
+39,Central African Republic,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.0504518239111,97.2690086055347,99.8063675084662,CAF
+39,Central African Republic,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.1342397620186,97.4548658780191,99.8462169994822,CAF
+39,Central African Republic,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.1614815248112,97.1661177248007,99.8655101544807,CAF
+39,Central African Republic,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.2249618234456,97.3643302127589,99.8798979692151,CAF
+217,Chad,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.4882089100428,90.9768030514413,98.2921345907917,TCD
+217,Chad,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.4866558599423,91.6070204922679,98.1272467689858,TCD
+217,Chad,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.5011953275212,91.7137116282405,97.9200098505717,TCD
+217,Chad,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.461444511477,92.5232887434219,97.5227456057146,TCD
+217,Chad,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.3594404019698,93.8094421600263,96.5862224109913,TCD
+217,Chad,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.6909942395911,93.0306636519595,97.6919933608666,TCD
+217,Chad,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.033007805289,93.0405977932621,98.081009386479,TCD
+217,Chad,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.2300419355287,92.9993931682039,98.2206660907906,TCD
+217,Chad,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.4306718397263,93.0746933502463,98.4205557145147,TCD
+217,Chad,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.3634886948361,93.101696957109,98.4517930409887,TCD
+217,Chad,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.335579276932,93.1098438804715,98.2697748475798,TCD
+217,Chad,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.3006035685239,93.6669218058169,98.0683226857445,TCD
+217,Chad,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.4278021085919,94.0044212381322,98.1413335390128,TCD
+217,Chad,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.5155348517141,94.2140380423849,98.0330964256076,TCD
+217,Chad,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.6560094066544,95.3762984112732,97.6337452020529,TCD
+217,Chad,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.6386547726205,95.7441972515592,97.3723590300972,TCD
+217,Chad,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.2033142926858,95.3120597811223,98.4539346317373,TCD
+217,Chad,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.5844008197912,95.1722353818146,98.9238520645305,TCD
+51,Comoros,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.7402008007731,94.8784408236383,99.8974549241254,COM
+51,Comoros,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.8475918976926,95.633503278174,99.8965667493799,COM
+51,Comoros,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.9579510525177,95.7727458640337,99.9094726447534,COM
+51,Comoros,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.0464337514554,96.1992104286821,99.9004674295634,COM
+51,Comoros,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.1545159169205,96.6079111253165,99.8976574047417,COM
+51,Comoros,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.2397560291104,97.4211185677717,99.9016718002671,COM
+51,Comoros,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.3125725826967,97.5967269713608,99.8886551524636,COM
+51,Comoros,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.36871090008,97.9040456360965,99.8868560366373,COM
+51,Comoros,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.4475016429362,98.4143845503231,99.8828012799544,COM
+51,Comoros,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.4973839302198,98.6272235058188,99.884824586741,COM
+51,Comoros,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.5280767973872,98.7894639253875,99.8630469031692,COM
+51,Comoros,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.5471797974971,98.8879617404161,99.8457458104624,COM
+51,Comoros,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.5847750531574,99.1210364050532,99.8349394584845,COM
+51,Comoros,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.572478894683,98.9943010543632,99.8633997639187,COM
+51,Comoros,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.5597313268411,98.8703561591584,99.8786840009874,COM
+51,Comoros,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.5478806417736,98.6873217909246,99.898884955644,COM
+51,Comoros,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.5286443762105,98.5784683543167,99.9055405152997,COM
+51,Comoros,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.5197892132898,98.5237267556941,99.9157924995951,COM
+45,Côte d'Ivoire,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,93.6969106149235,85.5350858759255,97.7287168365432,CIV
+45,Côte d'Ivoire,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,94.0833252132307,86.7207971157076,97.6606619808634,CIV
+45,Côte d'Ivoire,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,94.52050059956,89.1765913093965,97.5423156958,CIV
+45,Côte d'Ivoire,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,94.9078643454188,90.4027200541806,97.4971418238694,CIV
+45,Côte d'Ivoire,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.3341307710834,91.8644140192517,97.3717305549254,CIV
+45,Côte d'Ivoire,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.7873602449361,94.000650952485,96.9018840366606,CIV
+45,Côte d'Ivoire,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.6678357109311,92.3451876648218,97.6525427410144,CIV
+45,Côte d'Ivoire,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.8484287294287,92.2377287733778,98.0064407820757,CIV
+45,Côte d'Ivoire,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.867149692921,91.6005102276107,98.0162413043817,CIV
+45,Côte d'Ivoire,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.2123208964893,92.9531341044937,98.1385530795229,CIV
+45,Côte d'Ivoire,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.6631229792675,94.3437725370639,98.132530611146,CIV
+45,Côte d'Ivoire,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.1398151966878,95.8228002842824,98.1447637850608,CIV
+45,Côte d'Ivoire,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.2589778020365,96.0787103786262,98.0053676391515,CIV
+45,Côte d'Ivoire,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.1011663012015,94.7836627938829,98.4722430637216,CIV
+45,Côte d'Ivoire,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.9460393164189,93.9000227522211,98.6223304064149,CIV
+45,Côte d'Ivoire,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.9952548429809,93.3125679214327,98.8349052815206,CIV
+45,Côte d'Ivoire,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.0689808735349,93.2456424379283,99.0442737337876,CIV
+45,Côte d'Ivoire,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.2068405661041,92.8583834059012,99.1064211917336,CIV
+47,Democratic Republic of the Congo,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,91.7072529223266,83.8294211228749,96.7662810550852,COD
+47,Democratic Republic of the Congo,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,92.7123580296768,86.0539425810619,96.8125338969464,COD
+47,Democratic Republic of the Congo,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,93.5940346512487,87.8874808465512,97.1169100502316,COD
+47,Democratic Republic of the Congo,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,94.3961044126709,89.7212106093763,97.269899523414,COD
+47,Democratic Republic of the Congo,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.1501004821983,91.9375328404348,97.5177704183666,COD
+47,Democratic Republic of the Congo,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.7972224919872,93.2704935075402,97.5621699468603,COD
+47,Democratic Republic of the Congo,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.3853323615409,94.5525413088136,97.6161948307877,COD
+47,Democratic Republic of the Congo,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.867642410427,95.815705180249,97.5862568026925,COD
+47,Democratic Republic of the Congo,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.2066185420831,95.7926930196087,98.1719532668178,COD
+47,Democratic Republic of the Congo,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.5069831796604,95.834768121754,98.5447774213696,COD
+47,Democratic Republic of the Congo,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.7350878999665,95.8022831385951,98.7858071320035,COD
+47,Democratic Republic of the Congo,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.9387862622615,96.0239571628598,98.9787802038516,COD
+47,Democratic Republic of the Congo,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.0802941642105,96.1344759661971,99.1404968914975,COD
+47,Democratic Republic of the Congo,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.204101651346,96.312247240944,99.2455006092236,COD
+47,Democratic Republic of the Congo,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.3165979462931,96.4526179702289,99.3560459281095,COD
+47,Democratic Republic of the Congo,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.5125939523075,96.612185003885,99.4729022955346,COD
+47,Democratic Republic of the Congo,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.6460110706416,96.6078217272176,99.5752885059376,COD
+47,Democratic Republic of the Congo,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.7772109940649,96.8749958150659,99.6645116110207,COD
+68,Eritrea,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.6616156105015,92.5030274819891,99.5482196677244,ERI
+68,Eritrea,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.8544121577926,93.6774478683127,99.5814988539972,ERI
+68,Eritrea,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.0266774752898,94.2584699567938,99.5219938886954,ERI
+68,Eritrea,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.2368120873669,95.036842751322,99.5179454935505,ERI
+68,Eritrea,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.394794653125,95.9920470833704,99.5231079602624,ERI
+68,Eritrea,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.547978686693,96.4802808661281,99.4920940496626,ERI
+68,Eritrea,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.5195767391895,96.71923008623,99.4853695702366,ERI
+68,Eritrea,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.5099276047569,96.8125171122332,99.3832293820257,ERI
+68,Eritrea,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.4811183029474,96.9470719297764,99.3515045203288,ERI
+68,Eritrea,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.4765981514506,97.2424454546786,99.1964680641209,ERI
+68,Eritrea,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.4949407084534,97.7837075311587,98.9940664497728,ERI
+68,Eritrea,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.4750194259033,97.4529785871665,99.2148785077095,ERI
+68,Eritrea,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.4280745721374,97.0680990385999,99.3305739787898,ERI
+68,Eritrea,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.4187839877612,96.7131004203862,99.3980814513685,ERI
+68,Eritrea,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.3894423603454,96.5463465133666,99.422371507786,ERI
+68,Eritrea,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.3892826213804,96.2421020941538,99.4631221355718,ERI
+68,Eritrea,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.4009319828399,96.4695612080976,99.4748174352723,ERI
+68,Eritrea,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.3944879011328,96.0970063196044,99.5376221412214,ERI
+72,Ethiopia,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,90.872534890205,86.4184209410274,94.4487090855824,ETH
+72,Ethiopia,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,91.209322616727,87.3064845560205,94.4702167737064,ETH
+72,Ethiopia,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,91.5591812973267,87.9001674054959,94.3548436509476,ETH
+72,Ethiopia,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,91.8776120025438,89.0018750837903,94.0678644525449,ETH
+72,Ethiopia,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,92.2486318263024,90.0931287657087,93.9177800623578,ETH
+72,Ethiopia,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,92.6253862234778,91.7430408643631,93.446542783959,ETH
+72,Ethiopia,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,92.4111684061281,90.7192330126732,94.0157490675069,ETH
+72,Ethiopia,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,92.2131025514746,90.1832429806086,94.0391924667221,ETH
+72,Ethiopia,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,92.1191987070615,89.8989421425612,93.8782692422921,ETH
+72,Ethiopia,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,92.048107048185,90.0887300950623,93.79234334831,ETH
+72,Ethiopia,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,91.9541714969194,90.4753089059797,93.2356479666146,ETH
+72,Ethiopia,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,92.7040370897395,91.9320482477843,93.3346183235532,ETH
+72,Ethiopia,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,92.7076692240836,91.0486329203031,94.0772216992307,ETH
+72,Ethiopia,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,92.769528315573,91.0383090718113,94.4342485880201,ETH
+72,Ethiopia,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,92.9419799093347,90.9940512853458,94.5942022773123,ETH
+72,Ethiopia,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,92.9397766801102,91.2711748823349,94.2720817492812,ETH
+72,Ethiopia,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,93.0320514903748,92.1922307768236,93.797145546721,ETH
+72,Ethiopia,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,93.1238561013112,91.2177492317836,94.659809461693,ETH
+79,Gabon,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,91.956463321059,72.0359714082591,99.057852627688,GAB
+79,Gabon,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,92.9995479310689,75.5649285142539,99.211954739185,GAB
+79,Gabon,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,93.9030960451855,79.0337609754234,99.1124359439941,GAB
+79,Gabon,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,94.7685791469732,81.8005145843149,99.2043576102537,GAB
+79,Gabon,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.5088783232106,85.3422288406804,99.3202148416739,GAB
+79,Gabon,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.1662409820572,87.2680752125952,99.3557518713049,GAB
+79,Gabon,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.8446484351341,89.7712659688519,99.4181879934206,GAB
+79,Gabon,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.3595355611281,91.4160773089239,99.4326683969487,GAB
+79,Gabon,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.8489432969141,93.4094714970558,99.4981788220976,GAB
+79,Gabon,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.2691339219159,95.2577392448693,99.4852395118384,GAB
+79,Gabon,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.6013607868273,96.4722068518149,99.5296087880268,GAB
+79,Gabon,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.8795767077852,97.731287575294,99.5439630257532,GAB
+79,Gabon,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.0507096608745,98.632447703283,99.3802155803156,GAB
+79,Gabon,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.0275671550009,97.9257775074077,99.572649843182,GAB
+79,Gabon,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.0222728076104,97.5335429062405,99.635202794322,GAB
+79,Gabon,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.0664018126981,97.5206066237851,99.710436628513,GAB
+79,Gabon,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.1518042996953,97.3747356550891,99.7887671569984,GAB
+79,Gabon,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.2070614137069,97.3779434864232,99.8377866880965,GAB
+83,Ghana,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.3418677895215,91.0135147920775,97.9764440460379,GHA
+83,Ghana,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.5700462998904,92.1933141929409,97.7221051731766,GHA
+83,Ghana,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.7179387918769,93.6222229553932,97.3923333538317,GHA
+83,Ghana,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.7665045115608,95.0143310502674,96.4280417288396,GHA
+83,Ghana,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.4835713903777,93.1003301006149,97.024521309414,GHA
+83,Ghana,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.0798842820722,92.0180434413229,97.1655995492529,GHA
+83,Ghana,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,94.4733690861691,90.5302641896775,96.9213837921922,GHA
+83,Ghana,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,93.6401766172551,90.0372465893793,96.1580786220618,GHA
+83,Ghana,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,92.6380439543131,91.1577070161773,93.8888755194966,GHA
+83,Ghana,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,93.2685184311065,89.6574825284777,95.8212818051792,GHA
+83,Ghana,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,93.7654764439893,89.6035408985044,96.4482613710605,GHA
+83,Ghana,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,94.2430102285129,90.1347426994686,96.7830101614437,GHA
+83,Ghana,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,94.685061287298,91.2844889615356,96.8256186304132,GHA
+83,Ghana,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.4299206145192,93.2155399961668,97.0120839267151,GHA
+83,Ghana,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.0340163518794,95.2765726675572,96.6807891258297,GHA
+83,Ghana,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.2212406622829,94.2512467676084,97.7019119231932,GHA
+83,Ghana,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.4147927059947,93.8190472683632,98.2103243900763,GHA
+83,Ghana,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.5711538935817,93.2807123189011,98.483410764071,GHA
+85,Guinea,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.5557578052262,96.3585847980014,99.585871644468,GIN
+85,Guinea,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.6459113520136,96.7916299038673,99.5855763861792,GIN
+85,Guinea,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.7514558882164,97.0402516590135,99.6115277054769,GIN
+85,Guinea,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.8745051046708,97.5568149189481,99.5804155542443,GIN
+85,Guinea,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.9714230976882,98.0554106376119,99.5493066855418,GIN
+85,Guinea,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.060826379465,98.5759329697288,99.4075634981365,GIN
+85,Guinea,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.9917921728909,98.0419523100703,99.5424583236736,GIN
+85,Guinea,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.934516573057,97.4539459711622,99.6144764123292,GIN
+85,Guinea,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.9210892033232,97.3003619392608,99.6465196549457,GIN
+85,Guinea,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.0358170669583,97.2123051564167,99.7109600023791,GIN
+85,Guinea,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.1275017965808,97.4500042866203,99.7775779231025,GIN
+85,Guinea,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.2189088563874,97.8001834940131,99.8131542551234,GIN
+85,Guinea,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.3250256082836,98.0147111568557,99.8426032208782,GIN
+85,Guinea,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.4024069749337,98.2181282217691,99.8610513866822,GIN
+85,Guinea,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.4098624942676,98.2611755296401,99.8699905463813,GIN
+85,Guinea,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.4183434446554,98.095559446472,99.8945643057367,GIN
+85,Guinea,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.4181835941742,98.1416644732458,99.8944978537519,GIN
+85,Guinea,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.4282659075955,98.1722320560912,99.9123468657118,GIN
+88,Guinea-Bissau,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,79.6006676162264,43.6056881499382,97.6825550580191,GNB
+88,Guinea-Bissau,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,79.9778786178571,44.2791160958413,97.8155056453941,GNB
+88,Guinea-Bissau,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,80.0197631131142,43.371208059898,97.5045845196427,GNB
+88,Guinea-Bissau,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,80.391438081412,46.4710508191554,97.1473276031377,GNB
+88,Guinea-Bissau,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,80.7941815171709,49.235061623342,97.0893721194271,GNB
+88,Guinea-Bissau,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,81.1595898702368,49.6424505759693,96.8085138549314,GNB
+88,Guinea-Bissau,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,80.7346736531454,48.5400367708797,96.6618497778002,GNB
+88,Guinea-Bissau,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,80.7826468149372,47.2679632310143,96.5762018677099,GNB
+88,Guinea-Bissau,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,80.6697874610219,47.8071149944678,96.5136985196742,GNB
+88,Guinea-Bissau,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,80.1378599544683,49.6710865849674,96.2680288868277,GNB
+88,Guinea-Bissau,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,79.367823822398,50.4660909089733,95.7691159188879,GNB
+88,Guinea-Bissau,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,78.344944728232,51.8652348169079,94.9191535096423,GNB
+88,Guinea-Bissau,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,77.6380032709303,55.119598305065,92.4118127200281,GNB
+88,Guinea-Bissau,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,76.5162143879002,58.6736024478125,89.7562140921547,GNB
+88,Guinea-Bissau,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,75.0342584921289,66.1427649611793,82.6149343036471,GNB
+88,Guinea-Bissau,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,78.3397848467417,60.3140868815029,92.144769894796,GNB
+88,Guinea-Bissau,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,80.6419002468979,57.121527349657,94.4146824008689,GNB
+88,Guinea-Bissau,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,83.1806964989407,57.2238199696434,95.9102973605179,GNB
+118,Kenya,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,82.5125941762127,74.4575094246707,88.3528925482186,KEN
+118,Kenya,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,83.0623679895749,76.7841423452345,87.7795065598615,KEN
+118,Kenya,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,83.6504290138759,79.245723048941,87.2482622240056,KEN
+118,Kenya,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,84.277113877794,82.638174761392,85.7763607349691,KEN
+118,Kenya,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,85.6340024075056,82.8152501891816,88.2141587743554,KEN
+118,Kenya,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,85.354734567606,81.8908346932975,88.3151700224786,KEN
+118,Kenya,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,85.8337391071857,83.1244980602715,88.3190015626852,KEN
+118,Kenya,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,85.443655076652,84.1817135363865,86.6333603437739,KEN
+118,Kenya,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,85.2054003052381,83.3480328840322,86.8125683224644,KEN
+118,Kenya,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,85.9976499409118,84.2716815708565,87.5380625702797,KEN
+118,Kenya,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,86.5436604634794,83.6568041989022,88.8853964000583,KEN
+118,Kenya,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,87.6756963324151,84.5468932640045,90.058967865286,KEN
+118,Kenya,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,88.4325774504077,85.8403098197642,90.5414833997012,KEN
+118,Kenya,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,90.3629824094772,89.3355384105337,91.3569688443933,KEN
+118,Kenya,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,91.8965260932654,91.0966581944502,92.5827487382566,KEN
+118,Kenya,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,91.8311864677026,89.4694971674192,93.7963969880637,KEN
+118,Kenya,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,90.9370842181688,87.7796550044711,93.4216945464002,KEN
+118,Kenya,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,90.8437730072989,86.7787125165346,93.7939687556747,KEN
+132,Lesotho,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,44.6852670543185,27.4800725655904,61.2018332011573,LSO
+132,Lesotho,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,46.5387218031176,31.4998319986154,61.8905354672403,LSO
+132,Lesotho,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,48.4550029499049,36.3567781829435,59.1265234224613,LSO
+132,Lesotho,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,49.1070299727365,39.3830906839225,58.3544158321831,LSO
+132,Lesotho,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,49.5747521546131,46.962732153207,52.2161848495015,LSO
+132,Lesotho,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,50.0675732889266,44.3197493672014,55.8041024039383,LSO
+132,Lesotho,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,50.89439918288,41.8778031593045,60.345561820689,LSO
+132,Lesotho,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,52.075249833763,41.584683697186,61.4956891441046,LSO
+132,Lesotho,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,53.0659609463271,45.1916255145943,60.9718896762265,LSO
+132,Lesotho,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,55.3981032230803,53.1406826415218,57.8815610560032,LSO
+132,Lesotho,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,54.0490529301668,49.4368296629117,58.6710901621574,LSO
+132,Lesotho,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,57.9284657407704,49.6753963205866,65.7485696642568,LSO
+132,Lesotho,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,61.5729595825623,53.1916861783449,69.5408849709807,LSO
+132,Lesotho,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,67.840376387853,59.2717900792325,75.155475781548,LSO
+132,Lesotho,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,74.2701004856573,72.2064059773325,76.3585825220074,LSO
+132,Lesotho,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,73.5848218220659,66.1644052799744,80.3962986139915,LSO
+132,Lesotho,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,73.0672605503334,65.9043573725227,79.1943288387216,LSO
+132,Lesotho,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,69.2763602693961,65.7169555117169,72.7231359940877,LSO
+127,Liberia,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.9584513348379,89.9381854147182,99.482328623631,LBR
+127,Liberia,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.2480498973162,91.9961434424723,99.478125014143,LBR
+127,Liberia,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.523431709714,92.9456978166193,99.4883399808975,LBR
+127,Liberia,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.8129220084923,93.6819478757016,99.4067860588855,LBR
+127,Liberia,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.1156406609291,95.2554089512537,99.3977004226884,LBR
+127,Liberia,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.407610361727,96.5233523906837,99.359760706786,LBR
+127,Liberia,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.6081250582384,97.6057646551366,99.2338848217195,LBR
+127,Liberia,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.8485274404937,98.4465355023876,99.1747869270303,LBR
+127,Liberia,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.8471534001908,97.7394233667813,99.4759816827255,LBR
+127,Liberia,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.8450820519059,97.4378831817135,99.5534201769101,LBR
+127,Liberia,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.900148663745,97.4673945743787,99.5911539540057,LBR
+127,Liberia,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.9774160576503,97.7452014034438,99.6120142964108,LBR
+127,Liberia,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.0985832159579,98.3236737850272,99.5671386889722,LBR
+127,Liberia,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.2254430872605,98.8253860038694,99.4975759896736,LBR
+127,Liberia,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.1617475066183,98.254417484695,99.6423728266995,LBR
+127,Liberia,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.1207508478113,97.8921961833595,99.707329030442,LBR
+127,Liberia,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.0643149823446,97.3037398787865,99.7614008400087,LBR
+127,Liberia,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.0463499179934,97.2478817747874,99.7845700109791,LBR
+141,Madagascar,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.103968014064,94.983402885634,98.5197869344646,MDG
+141,Madagascar,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.3089303048814,95.5613004751362,98.4454977485706,MDG
+141,Madagascar,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.50966406075,96.163768333893,98.5116443296617,MDG
+141,Madagascar,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.685352641133,96.5950820226369,98.4884956611505,MDG
+141,Madagascar,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.8794200925616,97.0810376855389,98.4791333069363,MDG
+141,Madagascar,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.8580498717149,97.0371371101279,98.5369405314552,MDG
+141,Madagascar,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.8440212444632,96.993685375644,98.5029056954591,MDG
+141,Madagascar,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.8273137022343,97.0833996676306,98.4512853813317,MDG
+141,Madagascar,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.7853192752688,97.1785173553394,98.3257629356654,MDG
+141,Madagascar,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.5791530755899,97.1019441399382,98.0337684420987,MDG
+141,Madagascar,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.5988823324688,96.7743521107682,98.2760248080613,MDG
+141,Madagascar,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.6250127180669,96.4552158155854,98.4403538434645,MDG
+141,Madagascar,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.6708041955888,96.3208961408207,98.6129131454718,MDG
+141,Madagascar,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.7037400522672,96.2743794178427,98.723837273996,MDG
+141,Madagascar,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.7460982230643,96.1087918411044,98.8530824432437,MDG
+141,Madagascar,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.7588913148779,95.7781134852193,98.9388944404619,MDG
+141,Madagascar,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.8072254699263,95.8500114436096,99.0309503134801,MDG
+141,Madagascar,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.8260209176702,95.8174079598004,99.1159919593786,MDG
+157,Malawi,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,23.3950230411859,14.454510711875,33.6469334719154,MWI
+157,Malawi,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,23.616181810841,15.955642469763,32.6560189557769,MWI
+157,Malawi,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,24.0674532855195,17.7984416064139,31.4232692720923,MWI
+157,Malawi,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,24.234835831527,19.5513786709404,28.9266558274816,MWI
+157,Malawi,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,21.7278365422234,19.9642234740786,23.6546831098719,MWI
+157,Malawi,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,22.2794466994611,19.6309552343753,24.6498267527623,MWI
+157,Malawi,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,21.7991507050641,17.1029501648985,26.7786580828154,MWI
+157,Malawi,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,21.4009001841894,16.4224758848554,27.1416506647058,MWI
+157,Malawi,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,21.5302959062152,16.3866209957833,26.6189209664148,MWI
+157,Malawi,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,21.7622997003612,18.0841204258976,25.7230256537762,MWI
+157,Malawi,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,22.1566516781849,20.8835895792393,23.5279893798901,MWI
+157,Malawi,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,19.8251929505796,16.7366738333387,23.7013158396445,MWI
+157,Malawi,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,22.9393174242626,18.5270030976452,27.9945787033236,MWI
+157,Malawi,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,26.8262041508391,23.101623539791,30.9263630515762,MWI
+157,Malawi,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,27.5020812041628,24.8338426788172,30.2975542415876,MWI
+157,Malawi,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,28.5148595443723,26.8839131357357,30.3050485431006,MWI
+157,Malawi,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,30.5963930699724,28.5723341849906,32.6691688008695,MWI
+157,Malawi,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,32.039080344969,26.1654452849337,38.6870247709502,MWI
+146,Mali,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.2907069593392,93.2641298885272,99.1043703256994,MLI
+146,Mali,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.5105901758545,94.4429198937751,99.0981777477676,MLI
+146,Mali,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.6845487794489,95.0276765818462,99.111296940192,MLI
+146,Mali,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.8256985485458,95.4723446787243,99.05887965855,MLI
+146,Mali,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.9481608908416,96.201421878634,98.9848674299413,MLI
+146,Mali,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.0782547758961,96.8782443072832,98.9035197836816,MLI
+146,Mali,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.1524557693566,97.5643898558382,98.6157818101179,MLI
+146,Mali,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.1812622137714,97.112150016385,98.8860082089223,MLI
+146,Mali,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.1940467273328,96.9208552890251,98.9920509949637,MLI
+146,Mali,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.21063053205,96.7827182056414,99.0685072432101,MLI
+146,Mali,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.2109213846553,96.7342906305359,99.0305004510022,MLI
+146,Mali,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.3404394617769,97.2978641216127,99.0729863437034,MLI
+146,Mali,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.4285791087352,97.8669833646465,98.8497427884406,MLI
+146,Mali,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.6469148246375,97.8011170224469,99.2358703190584,MLI
+146,Mali,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.729077587549,97.5292540022404,99.398770050988,MLI
+146,Mali,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.7989242258961,97.6057476802634,99.505436599152,MLI
+146,Mali,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.84663185185,97.6257595314862,99.5761263680391,MLI
+146,Mali,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.9021108921111,97.5081985033691,99.6290403845089,MLI
+152,Mozambique,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,55.6943052815335,49.4374845497266,62.1321535663627,MOZ
+152,Mozambique,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,56.0707229603529,50.9992930393914,61.3636475998213,MOZ
+152,Mozambique,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,56.5004265993388,52.4011885353854,60.7987013037507,MOZ
+152,Mozambique,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,56.9523225316718,54.6703230475706,59.3008263989816,MOZ
+152,Mozambique,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,55.2208216149916,51.843844884721,58.5579396222599,MOZ
+152,Mozambique,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,55.206299610242,51.5492830153439,59.2577098398353,MOZ
+152,Mozambique,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,54.4977075454295,50.2244146627805,58.7162936842806,MOZ
+152,Mozambique,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,53.8773483408615,49.5556687316591,57.9365143122198,MOZ
+152,Mozambique,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,53.3456021638303,50.0803847021378,56.5764765198705,MOZ
+152,Mozambique,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,52.7545204292158,50.8227821891668,54.5740999158144,MOZ
+152,Mozambique,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,52.7790652142009,49.9973412048287,55.444377439118,MOZ
+152,Mozambique,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,51.6434041102509,49.6963294455819,53.495522967945,MOZ
+152,Mozambique,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,53.9845610715546,50.6847497412768,57.2750301767655,MOZ
+152,Mozambique,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,56.3471758103796,52.7313121641327,59.8616017104053,MOZ
+152,Mozambique,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,57.6723177977381,54.485396535222,60.8420662218965,MOZ
+152,Mozambique,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,59.4895719458821,57.5692083907862,61.4011509738106,MOZ
+152,Mozambique,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,60.5019847714681,56.8034390177,64.0680379159923,MOZ
+152,Mozambique,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,60.9063742739966,55.909705941114,65.6007180101518,MOZ
+160,Namibia,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,16.845245603113,11.0199163764981,24.4143386666436,NAM
+160,Namibia,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,17.4564691713258,11.923821108368,24.3982371239178,NAM
+160,Namibia,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,18.1117452514839,12.9463440616828,25.0012156925873,NAM
+160,Namibia,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,18.7881997158658,13.7265053623307,24.629556715699,NAM
+160,Namibia,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,19.3828589471115,14.7046679845514,24.3031343750024,NAM
+160,Namibia,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,20.0290846787785,16.2195296848343,24.2218985469378,NAM
+160,Namibia,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,20.7021604966556,18.2287882545544,23.4935932589567,NAM
+160,Namibia,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,19.3177859028999,17.5382922187742,21.2510908270679,NAM
+160,Namibia,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,20.4491883739468,17.0548749575628,24.1804293527294,NAM
+160,Namibia,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,21.59307277484,17.4389137161267,26.1104823384344,NAM
+160,Namibia,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,22.8698049876969,18.5131547181869,27.7233048103005,NAM
+160,Namibia,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,23.9950974202365,19.6855702217786,28.6070416332036,NAM
+160,Namibia,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,25.2482937633621,21.3719416051308,29.5777883977735,NAM
+160,Namibia,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,26.3340374196315,24.2738513873742,28.3531935838125,NAM
+160,Namibia,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,28.8235043300207,25.0275836304569,33.041302797976,NAM
+160,Namibia,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,31.6874336506854,27.0091158392255,36.8442843101634,NAM
+160,Namibia,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,34.6910091050744,30.0722673075345,39.7806132380754,NAM
+160,Namibia,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,37.647519542303,34.7626558877709,40.8003433047502,NAM
+162,Niger,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.87225747141,97.0547858655732,99.7071179912916,NER
+162,Niger,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.9769987200977,97.2024519484414,99.7238811020715,NER
+162,Niger,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.0729040523437,97.6392012662971,99.7214096909835,NER
+162,Niger,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.1784865344975,97.9789801924776,99.7231094643436,NER
+162,Niger,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.2468194927241,98.3029832206991,99.7329156110394,NER
+162,Niger,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.3306767515586,98.6350842785462,99.7105501359389,NER
+162,Niger,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.3982707146662,98.9008722724588,99.6892530232372,NER
+162,Niger,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.4951744911809,98.9629960392947,99.7927348779727,NER
+162,Niger,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.5861683520218,99.0521403615494,99.8425281759373,NER
+162,Niger,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.6137647798471,99.0444364891139,99.8681193357959,NER
+162,Niger,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.6440014640925,99.0105283138328,99.8916409163783,NER
+162,Niger,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.6576095904291,99.1279947199742,99.9013333043042,NER
+162,Niger,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.6688844553019,99.1374406493629,99.9130666677101,NER
+162,Niger,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.7154953356683,99.1790102968629,99.9260630560437,NER
+162,Niger,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.7229337153254,99.2012665246385,99.9330915286723,NER
+162,Niger,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.7232013577794,99.1601528395896,99.9323830965482,NER
+162,Niger,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.7274810285702,99.1953798265155,99.9331557867761,NER
+162,Niger,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.7256066711711,99.1660804305337,99.9369267866114,NER
+164,Nigeria,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.6537361901242,93.1610417355406,98.5503809655276,NGA
+164,Nigeria,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.9126253434525,94.0340829116234,98.5339481888492,NGA
+164,Nigeria,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.2084124080272,94.621252756964,98.6207879114534,NGA
+164,Nigeria,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.5014091625706,95.6500354778122,98.6838322289414,NGA
+164,Nigeria,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.7885935923043,96.3721799433773,98.6520384892139,NGA
+164,Nigeria,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.1566260107222,97.3108859267864,98.7408557625719,NGA
+164,Nigeria,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.4756561842147,98.2437900543052,98.6877221054401,NGA
+164,Nigeria,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.8242047916566,98.3801318063612,99.1557201114629,NGA
+164,Nigeria,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.1326984621465,98.9239025758295,99.2945085405093,NGA
+164,Nigeria,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.074558871996,98.6128829821915,99.3815134582084,NGA
+164,Nigeria,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.0312061207062,98.4678505857642,99.4018201814737,NGA
+164,Nigeria,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.0047547084231,98.4474804171258,99.3801529293818,NGA
+164,Nigeria,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.0636846231458,98.5851977374083,99.366150349295,NGA
+164,Nigeria,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.1605677782688,98.9821159212653,99.3120183500176,NGA
+164,Nigeria,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.0672831498739,98.6630303605283,99.3623114277754,NGA
+164,Nigeria,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.8691063430399,98.3738963564683,99.2102305434207,NGA
+164,Nigeria,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.6200109166808,98.3782305530598,98.8294088027288,NGA
+164,Nigeria,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.8691688937534,98.3768046809824,99.2303149589336,NGA
+48,Republic of Congo,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,93.9427742151157,78.8409940301038,99.0477655515342,COG
+48,Republic of Congo,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,94.7548485887127,82.9583752619969,99.1504510527179,COG
+48,Republic of Congo,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.5453119360811,85.7236657847522,99.205372871849,COG
+48,Republic of Congo,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.3011422743221,88.6415958267728,99.2357831665453,COG
+48,Republic of Congo,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.977303885282,91.5982185067439,99.2370875534916,COG
+48,Republic of Congo,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.5846724446685,93.4116353758219,99.2604445399641,COG
+48,Republic of Congo,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.0744261974181,95.2331858133223,99.3270302777174,COG
+48,Republic of Congo,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.4802679944997,97.0251354157039,99.3175236917339,COG
+48,Republic of Congo,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.8346368372455,97.8903324436827,99.4259078448772,COG
+48,Republic of Congo,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.1210308234329,98.6980178756661,99.4116223809538,COG
+48,Republic of Congo,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.1673175034672,98.530996294229,99.5501849667338,COG
+48,Republic of Congo,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.2563840565058,98.8699159202085,99.5089948280864,COG
+48,Republic of Congo,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.0806458386413,98.1829774668744,99.5287774570512,COG
+48,Republic of Congo,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.9333211657591,97.9031803717595,99.4827585934807,COG
+48,Republic of Congo,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.8088472525092,98.115234774651,99.2659754403376,COG
+48,Republic of Congo,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.9583011540948,98.2275881451122,99.3995059350925,COG
+48,Republic of Congo,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.0670051248927,97.8763147578996,99.5944782041674,COG
+48,Republic of Congo,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.1272463209392,97.7372445316045,99.7021961697036,COG
+191,Rwanda,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,10.4503592942751,3.61942693803975,22.0792339728208,RWA
+191,Rwanda,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,10.3901911810178,4.19617601591147,20.1986663936152,RWA
+191,Rwanda,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,10.3126495050315,4.73365717828684,18.5255202027798,RWA
+191,Rwanda,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,10.438563841091,6.07571580475852,17.1196297544813,RWA
+191,Rwanda,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,10.0613788450071,6.73420696614243,14.4035416022562,RWA
+191,Rwanda,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,10.483853958411,8.82695030453158,12.4858798411602,RWA
+191,Rwanda,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,10.8753141634945,7.73776201753268,14.9247436355572,RWA
+191,Rwanda,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,11.0988292695233,8.30249402359295,14.2235776422274,RWA
+191,Rwanda,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,13.7597868439569,11.8923495131493,15.7657013080991,RWA
+191,Rwanda,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,13.7126861387389,9.92418917406754,18.0888259217032,RWA
+191,Rwanda,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,12.9757198951882,10.992004288481,15.1158472676619,RWA
+191,Rwanda,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,14.2863763976388,12.1143229543742,16.4569024262578,RWA
+191,Rwanda,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,16.9624684000061,12.5293881449267,22.008414695944,RWA
+191,Rwanda,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,22.8520993802656,16.7972704795288,29.5572031628391,RWA
+191,Rwanda,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,30.0307558946009,27.0578077822577,33.2737005671766,RWA
+191,Rwanda,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,28.8848618821555,26.195104864057,31.4348373113485,RWA
+191,Rwanda,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,24.3615157780328,19.0018820780688,29.7383683547217,RWA
+191,Rwanda,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,26.1128794749256,19.1846038238952,34.0174358724286,RWA
+194,Senegal,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.529843350011,89.8879705466015,99.1569618493858,SEN
+194,Senegal,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.8854995613668,91.3202954296027,99.2205179389152,SEN
+194,Senegal,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.1447017603497,92.0715746955444,99.1463364772814,SEN
+194,Senegal,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.4659279554519,94.0733930520336,99.1495374319588,SEN
+194,Senegal,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.7871824909538,95.5481102568745,99.043127210688,SEN
+194,Senegal,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.1053592952659,97.2199122508149,98.6791999871242,SEN
+194,Senegal,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.9572056541937,95.9169875184466,99.0832474089343,SEN
+194,Senegal,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.8913615785093,94.8797831754668,99.2879552877305,SEN
+194,Senegal,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.8495339634807,94.4261351117742,99.3926949168093,SEN
+194,Senegal,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.8234047361792,93.7346528161615,99.4543861394956,SEN
+194,Senegal,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.7636390435517,93.1887813076314,99.5064454127317,SEN
+194,Senegal,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.7960390692458,92.6587211093959,99.541201684627,SEN
+194,Senegal,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.8116459130201,93.0086567599792,99.5690148833679,SEN
+194,Senegal,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.8655401467592,93.706538685443,99.5828227581764,SEN
+194,Senegal,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.8326714265231,93.1549941959613,99.5915338352684,SEN
+194,Senegal,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.958685580722,92.7781210431889,99.6742347156944,SEN
+194,Senegal,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.0814567762267,92.6113347650828,99.7312142121856,SEN
+194,Senegal,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.1875480781308,93.2499548175698,99.7556143112615,SEN
+200,Sierra Leone,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.5980301704449,85.0285740537679,99.4304565267002,SLE
+200,Sierra Leone,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,95.923805582243,86.4830969713871,99.4302440342428,SLE
+200,Sierra Leone,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.3343710153161,88.0297268689961,99.4474953924233,SLE
+200,Sierra Leone,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.7265795233876,88.7738596541252,99.429770758586,SLE
+200,Sierra Leone,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.0287658124814,90.2403940994546,99.4803464177769,SLE
+200,Sierra Leone,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.46558948821,93.0552265555268,99.3888705374283,SLE
+200,Sierra Leone,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.4451718852784,93.7170511055194,99.2327511803449,SLE
+200,Sierra Leone,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.6769180929511,95.1822671215369,98.9921422932386,SLE
+200,Sierra Leone,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.9982784160636,97.2931978458078,98.5618566415695,SLE
+200,Sierra Leone,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.368207899749,96.6865528440534,99.2870512915457,SLE
+200,Sierra Leone,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.7438709018077,97.1966108173921,99.5490799563869,SLE
+200,Sierra Leone,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.0751123629957,97.9423840735867,99.6766630999669,SLE
+200,Sierra Leone,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.3647867624836,98.7331452380233,99.7426338025828,SLE
+200,Sierra Leone,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.5589640147478,99.3558900036911,99.71078000486,SLE
+200,Sierra Leone,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.4632975197353,98.8339436434544,99.801806677747,SLE
+200,Sierra Leone,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.3940791226733,98.5086338543229,99.8243634119267,SLE
+200,Sierra Leone,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.3041672542697,97.9446535700102,99.8524746200986,SLE
+200,Sierra Leone,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,99.256635788945,97.6750112229361,99.8602934948437,SLE
+254,South Africa,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,33.308922444074,27.390435293981,39.4674319597072,ZAF
+254,South Africa,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,35.0833825866323,30.1150875392119,39.959782548806,ZAF
+254,South Africa,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,36.148746298903,33.6487038031245,38.9262059861789,ZAF
+254,South Africa,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,36.22840900694,31.8325286864548,40.682547371143,ZAF
+254,South Africa,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,36.1434304786454,31.5146007824311,41.1728332202286,ZAF
+254,South Africa,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,36.4149468911004,31.4840521894701,41.9377991486195,ZAF
+254,South Africa,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,36.8908374303546,31.9330442409414,42.1356954995912,ZAF
+254,South Africa,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,38.305931291684,33.901824062146,42.6606586263625,ZAF
+254,South Africa,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,39.164107521788,37.3170995145359,41.0316193053065,ZAF
+254,South Africa,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,39.4659347556185,36.5515862757151,42.218650608772,ZAF
+254,South Africa,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,41.1673944328295,37.1112320837453,45.448513458569,ZAF
+254,South Africa,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,42.4356117283533,38.4880315888577,46.1727470480625,ZAF
+254,South Africa,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,44.3051795278779,42.8931758409129,45.7129078871509,ZAF
+254,South Africa,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,47.8056580270738,43.4522390803693,52.1305264497255,ZAF
+254,South Africa,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,50.7469694487345,45.8692417485333,55.4022150796714,ZAF
+254,South Africa,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,52.7898156373176,48.09096453129,57.2218205637053,ZAF
+254,South Africa,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,54.7156127679649,52.6950519482992,56.7502720955403,ZAF
+254,South Africa,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,54.741916356838,49.6567271193422,59.8512380344646,ZAF
+212,Swaziland,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,9.80693198653725,3.65366872370136,20.3944487258404,SWZ
+212,Swaziland,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,9.65229997213824,4.11913599702036,18.709662015265,SWZ
+212,Swaziland,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,9.29550554645025,4.27947549893183,16.9459190989939,SWZ
+212,Swaziland,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,9.15419470198126,4.40988647868878,15.8700779123382,SWZ
+212,Swaziland,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,8.90489767595497,4.78691219842145,14.7751283205998,SWZ
+212,Swaziland,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,8.49434469902713,5.31595200304016,12.4701203346417,SWZ
+212,Swaziland,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,8.18007429360495,7.15316494221505,9.28156281253267,SWZ
+212,Swaziland,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,12.0978666414862,10.0312811637947,14.4284398393247,SWZ
+212,Swaziland,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,13.6533094909706,9.53782308245259,18.5442762176343,SWZ
+212,Swaziland,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,16.173864423259,11.4744368746501,21.8838372244816,SWZ
+212,Swaziland,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,19.2802737600275,16.7563498660139,22.2224007640061,SWZ
+212,Swaziland,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,19.2556611743769,13.5381489317923,26.6643699405741,SWZ
+212,Swaziland,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,19.4394252984205,13.5825583549266,26.3672461297682,SWZ
+212,Swaziland,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,21.8828872478759,15.0981612555696,29.6098317539527,SWZ
+212,Swaziland,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,24.2254578306375,20.5674069695014,28.1096581685938,SWZ
+212,Swaziland,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,27.3415263232435,20.0526343129009,34.6970236330168,SWZ
+212,Swaziland,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,29.7786786517834,22.9665263505326,37.1899205246633,SWZ
+212,Swaziland,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,31.1965716116835,27.7983979308204,34.6631363937606,SWZ
+230,Tanzania,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,68.7972319498135,63.019844481719,74.67439341348,TZA
+230,Tanzania,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,68.9799562612034,64.1868050426149,74.069181992751,TZA
+230,Tanzania,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,69.159273968411,65.347348488049,72.8867130319976,TZA
+230,Tanzania,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,69.3567630707276,67.4038480798181,71.5268592160939,TZA
+230,Tanzania,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,68.8757977441764,67.6332214736452,70.2045345346854,TZA
+230,Tanzania,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,68.8911965882255,67.1679530480811,70.8253628834525,TZA
+230,Tanzania,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,69.3613814532722,67.0126287014558,71.6487288854649,TZA
+230,Tanzania,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,69.9247180671169,68.2601850105453,71.452440353814,TZA
+230,Tanzania,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,70.7833619408887,68.8687481996839,72.7344266695026,TZA
+230,Tanzania,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,72.0255650825476,69.7867800797947,74.3701714023194,TZA
+230,Tanzania,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,72.1781082462571,70.5671792324363,73.8156902502923,TZA
+230,Tanzania,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,73.7220581297724,71.6454262860091,75.7270587084243,TZA
+230,Tanzania,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,73.6526249993141,72.3716792287546,74.8512496858111,TZA
+230,Tanzania,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,77.1148733422205,74.5978665357014,79.6853046617851,TZA
+230,Tanzania,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,79.7276954586745,77.3440700044192,82.1495307429418,TZA
+230,Tanzania,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,80.9904845912886,79.5031421548015,82.4639251739612,TZA
+230,Tanzania,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,79.8087226109075,78.0742373771073,81.4526793828131,TZA
+230,Tanzania,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,81.6440584390427,80.7157023837068,82.5437175723057,TZA
+218,Togo,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.1110134455329,94.2248323560753,99.6443145399264,TGO
+218,Togo,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.1780734777368,94.8676256741695,99.5897780332806,TGO
+218,Togo,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.2082469299911,95.36674991506,99.5431747221071,TGO
+218,Togo,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.2238799755172,95.8364452331927,99.386417656973,TGO
+218,Togo,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.2166493630351,95.7729869723309,99.4381322879767,TGO
+218,Togo,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.2095649448114,95.8489956037545,99.4544241083771,TGO
+218,Togo,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.2090498424686,96.2022301192215,99.2980495337074,TGO
+218,Togo,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.2005946414357,96.1665851559161,99.3465563909605,TGO
+218,Togo,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,98.1251127329723,95.9749000657834,99.2733244421672,TGO
+218,Togo,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.964794528396,95.4911413146766,99.2711488936757,TGO
+218,Togo,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.6855873835165,94.8347632975923,99.1638410431339,TGO
+218,Togo,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.0949946154854,94.3398541147334,98.7803995320809,TGO
+218,Togo,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,96.5410081887748,94.2695958120401,98.092588774578,TGO
+218,Togo,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.660495529226,96.8081613220669,98.3519621641814,TGO
+218,Togo,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.9551768770228,97.2389302975736,98.5319606866233,TGO
+218,Togo,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.8786287075843,96.2590806021028,99.0061870405509,TGO
+218,Togo,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.7689165451616,95.614243755876,99.0933786390739,TGO
+218,Togo,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,97.7067140333248,95.5164993105223,99.0305575838529,TGO
+231,Uganda,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,23.0070792617545,14.1222191257758,33.3790409805949,UGA
+231,Uganda,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,23.2757202516459,15.0986965657616,33.0412795167066,UGA
+231,Uganda,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,23.441818756623,16.3952521085102,31.2134402661015,UGA
+231,Uganda,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,23.7677501235441,18.4742779939142,29.5765667023892,UGA
+231,Uganda,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,25.5280366068196,23.3160719712152,27.9110242056454,UGA
+231,Uganda,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,24.1662582195635,20.4816049726948,27.9609603302981,UGA
+231,Uganda,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,23.5745361000113,21.5044706674925,25.7437224286195,UGA
+231,Uganda,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,22.3264685687808,18.1534851897265,26.9786006080207,UGA
+231,Uganda,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,22.671391911514,17.7730678494041,27.8648550049906,UGA
+231,Uganda,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,23.5709019914302,18.442177504031,29.1099130766076,UGA
+231,Uganda,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,24.6159498088235,20.3094572051493,29.237871334179,UGA
+231,Uganda,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,26.4625262034121,24.987612935367,28.079729022229,UGA
+231,Uganda,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,30.244660382337,24.9913669428298,35.8948411646186,UGA
+231,Uganda,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,36.8623608453733,30.5214569596409,43.7295378774022,UGA
+231,Uganda,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,44.1683897125663,37.4389508844123,50.8723806391312,UGA
+231,Uganda,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,46.5911312921542,40.5433299594891,52.4202239002896,UGA
+231,Uganda,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,45.7800254042097,44.0594338883849,47.5799543459437,UGA
+231,Uganda,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,45.6199992965385,38.5510444193015,52.138296472949,UGA
+255,Zambia,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,16.580625729272,13.8395705265562,19.8828280211359,ZMB
+255,Zambia,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,15.6735661339682,12.4939711169664,19.3632030354889,ZMB
+255,Zambia,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,14.7456472877911,11.9222676481859,18.017887440236,ZMB
+255,Zambia,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,13.8346292158727,11.9910488606092,15.9737957579581,ZMB
+255,Zambia,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,13.2287834928216,11.0590950603658,15.7873663640415,ZMB
+255,Zambia,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,12.8216274138632,11.1610006938792,14.812400874409,ZMB
+255,Zambia,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,12.7068976883114,10.6260303472289,15.0373851688034,ZMB
+255,Zambia,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,12.7821010016215,11.5589418703509,14.1671864519234,ZMB
+255,Zambia,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,13.1905240388509,11.0477377754074,15.7397964974517,ZMB
+255,Zambia,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,13.4296263738839,11.8084899718979,15.4567178180634,ZMB
+255,Zambia,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,15.4971589089073,12.6004792398734,18.6743960563633,ZMB
+255,Zambia,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,17.6405499435458,14.2480193248308,22.1701748710734,ZMB
+255,Zambia,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,19.9884796950516,16.6778907867202,24.0935775478895,ZMB
+255,Zambia,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,22.9558053378273,21.1082706717744,25.0801076597894,ZMB
+255,Zambia,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,24.173679664311,21.8901397701562,26.6925640241036,ZMB
+255,Zambia,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,26.0504650907676,22.5352404401356,30.0111393323088,ZMB
+255,Zambia,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,28.9221624355526,26.2232149274448,31.7117203600412,ZMB
+255,Zambia,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,30.6481351725594,25.1388855844931,36.6041095019226,ZMB
+256,Zimbabwe,2000,24,15-49 years,1,Males,Male circumcision prevalence,Percent,8.17349449060471,4.46740194021936,13.092750303573,ZWE
+256,Zimbabwe,2001,24,15-49 years,1,Males,Male circumcision prevalence,Percent,8.53381833751002,5.03222644577503,13.8513036140976,ZWE
+256,Zimbabwe,2002,24,15-49 years,1,Males,Male circumcision prevalence,Percent,8.70360235437323,5.54324615815934,12.9927771489447,ZWE
+256,Zimbabwe,2003,24,15-49 years,1,Males,Male circumcision prevalence,Percent,8.83644161641368,6.0963836842165,12.6393694637505,ZWE
+256,Zimbabwe,2004,24,15-49 years,1,Males,Male circumcision prevalence,Percent,8.93896065865449,6.90453010375489,11.6500442093781,ZWE
+256,Zimbabwe,2005,24,15-49 years,1,Males,Male circumcision prevalence,Percent,9.4282507593079,8.51420822052903,10.4410266065478,ZWE
+256,Zimbabwe,2006,24,15-49 years,1,Males,Male circumcision prevalence,Percent,10.9123416491981,9.4899632855367,12.420364043852,ZWE
+256,Zimbabwe,2007,24,15-49 years,1,Males,Male circumcision prevalence,Percent,10.5031654222534,8.30055493317529,13.138990860813,ZWE
+256,Zimbabwe,2008,24,15-49 years,1,Males,Male circumcision prevalence,Percent,10.1465806584106,7.69994992981769,13.1897416488,ZWE
+256,Zimbabwe,2009,24,15-49 years,1,Males,Male circumcision prevalence,Percent,9.76364126316525,7.66191066398865,12.2147270468372,ZWE
+256,Zimbabwe,2010,24,15-49 years,1,Males,Male circumcision prevalence,Percent,9.38534760611597,8.38211042211861,10.5045537327539,ZWE
+256,Zimbabwe,2011,24,15-49 years,1,Males,Male circumcision prevalence,Percent,9.03409534581743,7.97925295185389,10.1951302931616,ZWE
+256,Zimbabwe,2012,24,15-49 years,1,Males,Male circumcision prevalence,Percent,9.59948544930093,7.740679857715,11.9978931005756,ZWE
+256,Zimbabwe,2013,24,15-49 years,1,Males,Male circumcision prevalence,Percent,9.99067311921839,8.1415352971444,12.2399846604114,ZWE
+256,Zimbabwe,2014,24,15-49 years,1,Males,Male circumcision prevalence,Percent,10.5271552527535,9.66239037963076,11.5128774138851,ZWE
+256,Zimbabwe,2015,24,15-49 years,1,Males,Male circumcision prevalence,Percent,14.6156221095203,13.6998784342194,15.5824568342453,ZWE
+256,Zimbabwe,2016,24,15-49 years,1,Males,Male circumcision prevalence,Percent,14.3277154235121,12.8893331246921,16.0078366686516,ZWE
+256,Zimbabwe,2017,24,15-49 years,1,Males,Male circumcision prevalence,Percent,15.2890945346784,11.8233265544701,19.2764910562073,ZWE
